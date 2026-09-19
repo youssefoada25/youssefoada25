@@ -49,12 +49,9 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefoada25&show_icons=true&theme=tokyonight&hide_border=true" alt="Youssef's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefoada25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefoada25&show_icons=true&theme=dark" alt="Youssef's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefoada25&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
----
 
-<p align="center">
-  <i>"Learning step by step to build higher quality software." 🐞</i>
-</p>
+
